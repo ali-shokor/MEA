@@ -947,7 +947,7 @@ a {
 }
 
 .mobile-image {
-    background-image: url("./images/test2.jpg");
+    background-image: url("test2.jpg");
     background-repeat: no-repeat;
     background-position: center;
     opacity: 0.9;
